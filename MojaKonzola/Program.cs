@@ -11,7 +11,9 @@ namespace MojaKonzola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+
             Class2.Message();
+
             Console.ReadKey();
             Class3.Message();
             Console.ReadKey();
